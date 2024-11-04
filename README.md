@@ -38,7 +38,7 @@ These enhancements would add scalability and flexibility to the API, especially 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
+git clone <https://github.com/JaqwaunKC/SecurityAPI.git>
 cd <repository-directory>
 Step 2: Set Up Environment Variables
 Create a .env file in the root directory to store sensitive information like database credentials. The environment variables should include:
